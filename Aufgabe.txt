@@ -1,0 +1,17 @@
+Hallo,
+
+Aufgabe zur nächsten Woche ist, das UV-Mapping und die Texturen zu beenden, damit Marco mit Euch am 24.10. mit Rigging (Bones) weitermachen kann.
+
+Danach habt Ihr eine Verschnaufpause und könnt die Sachen in Blender in Ruhe nacharbeiten.
+
+Weiter geht es dann nämlich wie folgt:
+
+31.10. Reformationstag (seit 2018 Feiertag in Hamburg)
+7.11.: Gastvortrag zu Architekturmodellierung auf der Basis von Datenwolken und AutoCAD-Einführung
+14.11. Theorieblock: Emotion von Bewegungen und Körperposen
+21.11. Aufnahme der Bewegungen des Charakters mit dem Optitrack
+
+Und dann geht es weiter mit Animation…
+
+Viele Grüße
+Katrin
